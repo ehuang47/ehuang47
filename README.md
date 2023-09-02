@@ -3,14 +3,14 @@
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
 ### Currently, I am. . .
-- Refactoring my Chrome extension: [InboxCleaner](https://github.com/ehuang47/G-Manager/tree/main)
+- Refactoring my Chrome extension: [InboxCleaner](https://github.com/ehuang47/InboxCleaner)
 - Learning Svelte + SvelteKit, so I can compare it to React/Next.js & Angular2+/Angular Universal
 - Learning Java for backend server development
 
 ### Project Repo Summary
 | Repo | Description |
 | ---| ---|
-| [InboxCleaner](https://github.com/ehuang47/G-Manager) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
+| [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
 | [Noting](https://github.com/ehuang47/Noting) | iOS App for note taking |
 
 ### Udemy Courses Completed
