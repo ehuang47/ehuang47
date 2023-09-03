@@ -2,22 +2,25 @@
 
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
-### Currently, I am. . .
+### Currently, I am...
 - Refactoring my Chrome extension: [InboxCleaner](https://github.com/ehuang47/InboxCleaner)
 - Learning Svelte + SvelteKit, so I can compare it to React/Next.js & Angular2+/Angular Universal
 - Learning Java for backend server development
 
-### Project Repo Summary
+### What projects have I worked on?
 | Repo | Description |
 | ---| ---|
 | [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
 | [Noting](https://github.com/ehuang47/Noting) | iOS App for note taking |
+| [Lectures](https://github.com/ehuang47/Lectures) | All of my MEAN/MERN/TS/Ember/Testing research material + mini projects ~ |
+| [MERNTxAWS](https://github.com/ehuang47/MERNTxAWS) | A simplified profile list manager to practice TS/RTK/AWS S3 | 
+| [simple-quiz](https://github.com/ehuang47/simple-quiz) | SSR-based quiz application |
 
-### Udemy Courses Completed
-| Instructor | Description |
+### Which Udemy courses have I completed?
+| Instructor | Course(s) |
 | ---| ---|
 | Stephen Grider | [RTL & Jest Guide](https://www.udemy.com/course/react-testing-library-and-jest/) |
-| Angela Yu | [iOS App Dev Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) |
+| Angela Yu | [iOS App Dev Bootcamp (up to the ML part)](https://www.udemy.com/course/ios-13-app-development-bootcamp/) |
 | Maximilian Schwarzmüller | [Complete Angular Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/) |
 
 <!--
