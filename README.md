@@ -11,6 +11,7 @@
 | Repo | Description |
 | ---| ---|
 | [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
+| [JavaPractice](https://github.com/ehuang47/JavaPractice) | Practicing Java for server-side web development |
 | [Noting](https://github.com/ehuang47/Noting) | iOS App for note taking |
 | [Lectures](https://github.com/ehuang47/Lectures) | All of my MEAN/MERN/TS/Ember/Testing research material + mini projects ~ |
 | [MERNTxAWS](https://github.com/ehuang47/MERNTxAWS) | A simplified profile list manager to practice TS/RTK/AWS S3 | 
