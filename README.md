@@ -3,19 +3,18 @@
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
 ### Currently, I am...
-- Refactoring my Chrome extension: [InboxCleaner](https://github.com/ehuang47/InboxCleaner)
-- Learning Svelte + SvelteKit, so I can compare it to React/Next.js & Angular2+/Angular Universal
 - Learning Java for backend server development
+- Learning Svelte + SvelteKit, so I can compare it to React/Next.js & Angular2+/Angular Universal
 
 ### What projects have I worked on?
-| Repo | Description |
-| ---| ---|
-| [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
-| [JavaPractice](https://github.com/ehuang47/JavaPractice) | Practicing Java for server-side web development |
-| [Noting](https://github.com/ehuang47/Noting) | iOS App for note taking |
-| [Lectures](https://github.com/ehuang47/Lectures) | All of my MEAN/MERN/TS/Ember/Testing research material + mini projects ~ |
-| [MERNTxAWS](https://github.com/ehuang47/MERNTxAWS) | A simplified profile list manager to practice TS/RTK/AWS S3 | 
-| [simple-quiz](https://github.com/ehuang47/simple-quiz) | SSR-based quiz application |
+| Repo | Live | Description |
+| --- | --- | --- |
+| [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
+| [JavaPractice](https://github.com/ehuang47/JavaPractice) | | Practicing Java for server-side web development |
+| [Noting](https://github.com/ehuang47/Noting) | | iOS App for note taking |
+| [Lectures](https://github.com/ehuang47/Lectures) | | All of my MEAN/MERN/TS/Ember/Testing research material + mini projects ~ |
+| [MERNTxAWS](https://github.com/ehuang47/MERNTxAWS) | | A simplified profile list manager to practice TS/RTK/AWS S3 | 
+| [simple-quiz](https://github.com/ehuang47/simple-quiz) | | SSR-based quiz application |
 
 ### Which Udemy courses have I completed?
 | Instructor | Course(s) |
