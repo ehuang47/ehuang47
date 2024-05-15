@@ -3,14 +3,14 @@
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
 ### Currently, I am...
-- Learning Java for backend server development
-- Learning Svelte + SvelteKit, so I can compare it to React/Next.js & Angular2+/Angular Universal
+- Building apps supported by backend Java servers
+- Contributing to an open-source security-awareness app initiative
 
 ### What projects have I worked on?
 | Repo | Live | Description |
 | --- | --- | --- |
-| [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | [View](https://chrome.google.com/webstore/detail/inboxcleaner/nkdkdllibjgnhcmlkgnmbngmomdkclgj?hl=en) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
 | [JavaPractice](https://github.com/ehuang47/JavaPractice) | | Practicing Java for server-side web development |
+| [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | [View](https://chrome.google.com/webstore/detail/inboxcleaner/nkdkdllibjgnhcmlkgnmbngmomdkclgj?hl=en) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
 | [Noting](https://github.com/ehuang47/Noting) | | iOS App for note taking |
 | [MERNTxAWS](https://github.com/ehuang47/MERNTxAWS) | | A simplified profile list manager to practice TS/RTK/AWS S3 | 
 | [simple-quiz](https://github.com/ehuang47/simple-quiz) | | SSR-based quiz application |
