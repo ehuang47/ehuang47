@@ -3,12 +3,13 @@
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
 ### Currently, I am...
-- Building apps supported by backend Java servers
 - Contributing to an open-source security-awareness app initiative
+- Practicing Java/Spring concepts & best practices in small web apps
 
 ### What projects have I worked on?
 | Repo | Live | Description |
 | --- | --- | --- |
+| [ThreatWatch](https://github.com/kochas23/Threat-Watch) | | The first privacy focused cybersecurity news app in the world. |
 | [JavaPractice](https://github.com/ehuang47/JavaPractice) | | Practicing Java for server-side web development |
 | [InboxCleaner](https://github.com/ehuang47/InboxCleaner) | [View](https://chrome.google.com/webstore/detail/inboxcleaner/nkdkdllibjgnhcmlkgnmbngmomdkclgj?hl=en) | Chrome extension for cleaning out your Gmail inbox of unwanted subscriptions |
 | [Noting](https://github.com/ehuang47/Noting) | | iOS App for note taking |
