@@ -3,7 +3,7 @@
 > I am a full stack web developer, and I'm just learning/doing anything that I find interesting.
 
 ### Currently, I am...
-- Contributing to an open-source security-awareness app initiative
+- Workong on ResidencyMatch
 - Practicing Java/Spring concepts & best practices in small web apps
 
 ### What projects have I worked on?
